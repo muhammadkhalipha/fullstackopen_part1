@@ -11,5 +11,6 @@ const App = () => {
     </div>
   );
 };
+
 console.log(" Hello from component");
 export default App;
